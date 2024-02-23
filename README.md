@@ -5,4 +5,4 @@ WIth this project, we are going to predict a person’s MBTI personality type by
 
 ## Instructions for how to use this repo
 ----------
-Welcome! In this repo, there are files pertaining to the planning, execution, and analysis of this project. 
+Welcome! In this repo, there are files pertaining to the execution and analysis of this project. 
